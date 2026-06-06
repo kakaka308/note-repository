@@ -2,5 +2,8 @@
 
 点击下方链接可直接在线阅读大文件（支持放大、翻页）：
 
-- [📚 Java高级进阶笔记（大文件）](https://你的用户名.github.io/你的仓库名/java_advanced.pdf)
-- [📚 计算机网络复习资料](https://你的用户名.github.io/你的仓库名/computer/network.pdf)
+- [📚 进阶-JS](https://kakaka308.github.io/note-repository/八股/进阶-JS.pdf)
+- [📚 进阶-vue](https://kakaka308.github.io/note-repository/八股/进阶-vue.pdf)
+- [📚 进阶-浏览器原理](https://kakaka308.github.io/note-repository/八股/进阶-浏览器原理.pdf)
+- [📚 进阶-网络](https://kakaka308.github.io/note-repository/八股/进阶-网络.pdf)
+- [📚 进阶-性能优化、工程化](https://kakaka308.github.io/note-repository/八股/进阶-性能优化、工程化.pdf)
